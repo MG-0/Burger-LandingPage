@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Barlow_Condensed } from "next/font/google";
 import NavBarResposive from '@/app/components/navigation/NavBarResposive'
-import Footer from '@/app/components/footer/Footer' 
+import Footer from '@/app/components/Footer/Footer' 
 import "./globals.css";
 
 const barlow_Condensed = Barlow_Condensed({
