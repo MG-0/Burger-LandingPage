@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Burger Landing Page
+
+A modern and responsive landing page for a burger restaurant built with Next.js and Tailwind CSS. The project focuses on creating an attractive user experience with a clean design, smooth navigation, and fully responsive layouts across different devices.
+
+## Features
+
+* 🍔 Modern burger restaurant landing page
+* 📱 Fully responsive design
+* ⚡ Fast performance with Next.js
+* 🎨 Clean and attractive UI
+* 🧩 Reusable React components
+* 💻 Mobile-friendly layout
+
+## Tech Stack
+
+* ▲ Next.js
+* ⚛️ React
+* 📘 TypeScript
+* 🎨 Tailwind CSS
+
+## Purpose
+
+This project was built to practice modern frontend development concepts, component-based architecture, responsive design, and building professional landing pages using Next.js.
 
 ## Getting Started
 
